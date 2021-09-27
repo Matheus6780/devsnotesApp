@@ -1,0 +1,1 @@
+Aplicativo React Native de anotações, com redux persist, styled components e stack navigator
